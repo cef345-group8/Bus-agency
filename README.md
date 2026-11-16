@@ -1,3 +1,5 @@
 # Bus-agency
 My name Kwa Maxwill 
-Role Analyst
+Role Analyst lead 
+GitHub username @kwamaxwill
+email kwamaxwillmua@gmail.com
